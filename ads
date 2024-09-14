@@ -1,5 +1,5 @@
 [
 {
-    "ads": "https://i.imgur.com/cO1VkLo.jpeg","urllink": "https://www.facebook.com/groups/425017693913451/?ref=share_group_link&exp=959"
+    "ads": "https://i.imgur.com/cO1VkLo.jpeg","urllink": "https://invite.viber.com/?g2=AQB%2Fsw8d5G9He1MGUxTgcYvTJWAKa8GCPmk3QrK89KKrjEQvgg1sm79XnBwTDqpN"
 }
 ]
