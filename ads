@@ -1,5 +1,5 @@
 [
 {
-    "ads": "https://con3029.wordpress.com/wp-content/uploads/2025/03/img_20250304_224221_3538538343401170360307.jpg","urllink": "https://invite.viber.com/?g2=AQAeHDf1KQczllPVQdBI28I%2F2Q57Xt4ZxYrbhenWXYVu%2BmpgtD9NGoxz35P9lXCT"
+    "ads": "https://i.imgur.com/XSt1hYz.jpeg","urllink": "https://t.me/ANWH447"
 }
 ]
