@@ -1,5 +1,5 @@
 [
 {
-    "ads": "https://i.ibb.co/NgsVR9Jg/att-8-Kpg9-Bof-J4-x-Vz-Px-As-Fhl-CTb-RROe-JJ5q-FPby-T9-O9-S1-I.jpg","urllink": "https://youtube.com/@kohein447-anawarhein?si=arIaYz3GyoVnad-7"
+    "ads": "https://i.ibb.co/qLgn1P80/IMG-20250726-004744-984.jpg","urllink": "https://invite.viber.com/?g2=AQArSigSFlAFq1Th6AKGl3d%2Bc7iZfxiq6VMu9mU%2Bjk3dcux5KzrnM2qYTeJ7PaSv"
 }
 ]
