@@ -1,5 +1,5 @@
 [
   {
-    "ads": "https://con3029.wordpress.com/wp-content/uploads/2025/03/img_20250304_224221_3538538343401170360307.jpg","urllink": "https://invite.viber.com/?g2=AQAeHDf1KQczllPVQdBI28I%2F2Q57Xt4ZxYrbhenWXYVu%2BmpgtD9NGoxz35P9lXCT"
+    "ads": "https://con3029.wordpress.com/wp-content/uploads/2025/12/messenger_creation_2d2b10b1-073d-4f3f-981f-93dbbfa072fc973149851530758473.jpeg","urllink": "https://t.me/anawarhein"
   }
 ]
